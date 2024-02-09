@@ -50,6 +50,9 @@ Also, you can install `nightly` or any other version (e.g. `v2023.2.9`) the foll
 curl -fsSL https://jb.gg/qodana-cli/install | bash -s -- nightly
 ```
 
+
+
+
 #### Windows
 ##### Install with [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/winget/) (recommended)
 ```shell
